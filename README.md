@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on GazFood
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on GazFood
+- 🌱 I’m currently learning Java, Spring
+
 
 <!--
 **yam86rus/yam86rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
