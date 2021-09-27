@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, Spring, Angular
+- 🌱 I’m currently learning Linux, Java, Spring, Angular
 
 
 <!--
